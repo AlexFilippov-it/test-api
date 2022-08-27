@@ -133,3 +133,4 @@ dogceo/.DS_Store
 .idea/
 jsonplaceholder/__init__.py
 httpbin/__init__.py
+.json
