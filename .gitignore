@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.idea/
+dogceo/.DS_Store
+openbrew/__init__.py
+README.md
